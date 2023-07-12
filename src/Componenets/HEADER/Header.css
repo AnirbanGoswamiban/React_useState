@@ -1,0 +1,12 @@
+.nav {
+  display: flex;
+  flex-direction: row;
+  background-color: blueviolet;
+  column-gap: 8px;
+  font-weight: bolder;
+  color: white;
+  justify-content: right;
+  padding-right: 10px;
+  height: 50px;
+  align-items: center;
+}

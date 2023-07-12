@@ -1,0 +1,14 @@
+input {
+  background-color: tomato;
+  padding: 8px;
+  font-size: 1rem;
+}
+
+button {
+  background-color: violet;
+  height: 40px;
+  width: 40px;
+  color: white;
+  font-weight: bold;
+  font-size: 1rem;
+}
